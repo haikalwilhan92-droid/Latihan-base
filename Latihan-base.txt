@@ -6,6 +6,6 @@
 </head>
 <body>
     <h1>Hello GitHub!!!!</h1>
-    <p>Saya berhasil menghubungkan Git dengan GitHub!!!!!</p>
+    <p>Saya berhasil menghubungkan Git dengan GitHub Lohh!!!!!</p>
 </body>
 </html>
